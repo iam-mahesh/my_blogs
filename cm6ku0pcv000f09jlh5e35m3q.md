@@ -1,8 +1,8 @@
 ---
-title: "Beginner’s Guide to OSI & TCP/IP Models ( With Real-World Examples )"
+title: "Week-1 : Beginner’s Guide to OSI & TCP/IP Models ( With Real-World Examples )"
 datePublished: Fri Jan 31 2025 14:00:48 GMT+0000 (Coordinated Universal Time)
 cuid: cm6ku0pcv000f09jlh5e35m3q
-slug: beginners-guide-to-osi-tcpip-models-with-real-world-examples
+slug: week-1-beginners-guide-to-osi-tcpip-models-with-real-world-examples
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1738331585447/3ef89530-8308-4b5a-9db5-3762f37c478e.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1738332020190/f63a915e-cf82-4ba3-8796-76c5b6adff4c.jpeg
 tags: devops, networking, learning-in-public, 90daysofdevops, 90daysofdevops-chanllenge, tws
